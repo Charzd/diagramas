@@ -1,0 +1,2 @@
+texto 
+Esto es puro texto
